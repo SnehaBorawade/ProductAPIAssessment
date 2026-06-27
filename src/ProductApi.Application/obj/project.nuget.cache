@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "opTaTcsO6cw=",
+  "success": true,
+  "projectFilePath": "C:\\My Tech Focus\\Dot_net\\ProductApi.Solution\\src\\ProductApi.Application\\ProductApi.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
